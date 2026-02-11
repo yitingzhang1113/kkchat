@@ -11,6 +11,8 @@ The system emphasizes **high concurrency, scalability, real-time communication, 
 
 The system is organized into five major layers:
 
+![KKChat Architecture](/Users/eratozhang/Desktop/resume project/KamaChat-main/image.png)
+
 - Client Layer
 - Gateway & Network Layer
 - Microservices Layer
