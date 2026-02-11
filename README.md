@@ -1,3 +1,7 @@
+# KKChat — Distributed Real-Time Messaging System
+
+KKChat is a real-time chat system built with a Vue.js frontend and a Go backend. It supports user accounts, contacts, one-to-one and group messaging, file sharing, and voice/video signaling.
+
 ## 🏗️ System Architecture
 
 KKChat (KamaChat) is designed as a **distributed, production-grade real-time messaging system**, following a layered and microservice-oriented architecture.  
@@ -10,8 +14,6 @@ The system emphasizes **high concurrency, scalability, real-time communication, 
 ### Architecture Overview
 
 The system is organized into five major layers:
-
-![KKChat Architecture](/Users/eratozhang/Desktop/resume project/KamaChat-main/image.png)
 
 - Client Layer
 - Gateway & Network Layer
