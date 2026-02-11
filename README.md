@@ -3,7 +3,7 @@
 KKChat (KamaChat) is designed as a **distributed, production-grade real-time messaging system**, following a layered and microservice-oriented architecture.  
 The system emphasizes **high concurrency, scalability, real-time communication, and clean separation of concerns**, closely resembling architectures used in large-scale IM platforms.
 
-![KKChat Architecture](/Users/eratozhang/Desktop/resume project/KamaChat-main/image.png)
+![KKChat Architecture](image.png)
 
 ---
 
